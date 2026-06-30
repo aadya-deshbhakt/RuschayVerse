@@ -9,11 +9,9 @@ a:link{
     color: #000000;
     text-decoration: none;
 }
-
 a:visited{
     color: #000000;
 }
-
 a:hover {
   text-decoration: underline;
 }
@@ -25,7 +23,6 @@ a:hover {
     position: relative;
     bottom: 33px;
 }
-
 .ruschay_corner p{
     font-size: 300%;
     text-align: center;
@@ -42,4 +39,25 @@ a:hover {
     position: relative;
     bottom: 16px;
     border-radius: 25px;
+}
+
+/* INDEX */
+
+.introduction{
+    background: #FB8BE5;
+    border-radius: 25px;
+    height: 242px;
+    position: relative;
+    bottom: 14px;
+}
+.introduction h1{
+    margin: 1.1%;
+    position: relative;
+    top: 4.4%
+}
+.introduction p{
+    margin: 1.1%;
+    font-size: 132%;
+    position: relative;
+    top: 3.3%
 }
