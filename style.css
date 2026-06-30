@@ -1,3 +1,18 @@
 body{
-    background: #0CAEEE
+    background: #0CAEEE;
+}
+
+.ruschay_corner{
+    background: #FB8BE5;
+    border-radius: 25px;
+    height: 66px;
+    position: relative;
+    bottom: 33px;
+}
+
+.ruschay_corner p{
+    font-size: 300%;
+    text-align: center;
+    position: relative;
+    top: 6%;
 }
