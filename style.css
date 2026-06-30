@@ -3,6 +3,7 @@
 body{
     background: #0CAEEE;
     font-family: "Times New Roman", Times, serif;
+    overflow: hidden;
 }
 
 a:link{
@@ -21,7 +22,7 @@ a:hover {
     border-radius: 25px;
     height: 66px;
     position: relative;
-    bottom: 33px;
+    bottom: 34px;
 }
 .ruschay_corner p{
     font-size: 300%;
@@ -60,4 +61,44 @@ a:hover {
     font-size: 132%;
     position: relative;
     top: 3.3%
+}
+
+.socials_heading{
+    background: #FB8BE5;
+    display: flex;
+    justify-content: center;
+    font-size: 132%;
+    border-radius: 25px;
+    width: 11%;
+    margin-bottom: 1%;
+}
+.socials{
+    display: flex;
+    gap: 1%;
+}
+.socials img{
+    width: 22%
+}
+
+.harmony_server{
+    background: #FB8BE5;
+    display: flex;
+    width: 25%;
+    border-radius: 25px;
+}
+.harmony_server p{
+    font-size: 132%;
+}
+
+.youtube_channel{
+    background: #FB8BE5;
+    display: flex;
+    width: 25%;
+    border-radius: 25px;
+}
+.youtube_channel p{
+    font-size: 132%;
+}
+.youtube_channel img{
+    margin-left: 2%;
 }
