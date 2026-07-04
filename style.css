@@ -112,6 +112,21 @@ a:hover {
     display: none;
 }
 
+/*VIDEO EDITS*/
+
+.content{
+    margin-top: 1%;
+}
+.non-copyrighted{
+    background: #FB8BE5;
+    text-align: center;
+    border-radius: 25px;
+}
+.video_edit{
+    border-radius: 25px;
+    width: 19%;
+}
+
 @media only screen and (min-width: 1px) and (max-width: 200px){
     .ruschay_corner{
         display: none;
