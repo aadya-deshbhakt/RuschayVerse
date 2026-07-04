@@ -151,6 +151,11 @@ a:hover {
         font-size: 38px;
         text-align: center;
     }
+
+    /*VIDEO EDITS*/
+    .video_edit{
+        display: none;
+    }
 }
 
 @media only screen and (min-width: 201px) and (max-width: 300px){
@@ -216,6 +221,11 @@ a:hover {
 
     .miniest_devices{
         display: none;
+    }
+
+    /*VIDEO EDITS*/
+    .video_edit{
+        width: 100%;
     }
 }
 
@@ -287,6 +297,11 @@ a:hover {
     .miniest_devices{
         display: none;
     }
+
+    /*VIDEO EDITS*/
+    .video_edit{
+        width: 100%;
+    }
 }
 
 @media only screen and (min-width: 353px) and (max-width: 400px){
@@ -356,6 +371,11 @@ a:hover {
 
     .miniest_devices{
         display: none;
+    }
+
+    /*VIDEO EDITS*/
+    .video_edit{
+        width: 100%;
     }
 }
 
@@ -428,6 +448,11 @@ a:hover {
     .miniest_devices{
         display: none;
     }
+
+    /*VIDEO EDITS*/
+    .video_edit{
+        width: 100%;
+    }
 }
 
 @media only screen and (min-width: 501px) and (max-width: 600px){
@@ -498,6 +523,11 @@ a:hover {
 
     .miniest_devices{
         display: none;
+    }
+
+    /*VIDEO EDITS*/
+    .video_edit{
+        width: 100%;
     }
 }
 @media only screen and (min-width: 601px) and (max-width: 800px){
@@ -575,6 +605,11 @@ a:hover {
 
     .miniest_devices{
         display: none;
+    }
+
+    /*VIDEO EDITS*/
+    .video_edit{
+        width: 50%;
     }
 }
 
@@ -671,5 +706,10 @@ a:hover {
     }
     .miniest_devices{
         display: none;
+    }
+
+    /*VIDEO EDITS*/
+    .video_edit{
+        width: 50%;
     }
 }
